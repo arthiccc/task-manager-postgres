@@ -16,7 +16,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/task-manager-postgres.git
+git clone https://github.com/arthiccc/task-manager-postgres.git
 cd task-manager-postgres
 ```
 2. Create virtual environment:
